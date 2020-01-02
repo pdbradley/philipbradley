@@ -118,4 +118,4 @@ So in closing:
 
 If you have a better way to do this, or a better way to format the quickfix output, let me know.  I'm always ready to level up.
 
-[vim-session]: http://318ce10a4aff81d8fd77-9942159f0cde80bd1f0d981f1d813960.r48.cf1.rackcdn.com/mac-mini/Clipboard%20Image%2010-23-15,%201.52.54%20PM.png
+[vim-session]: /vimrspecquickfix.png

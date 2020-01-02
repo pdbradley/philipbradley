@@ -4,7 +4,7 @@ title = "Philip Bradley"
 theme = "hugo-vitae"
 paginate = 5
 
-copyright = "© Copyright notice | [Vitae](https://github.com/dataCobra/hugo-vitae) theme for [Hugo](https://gohugo.io)"
+copyright = "Powered by [Hugo](https://gohugo.io)"
 
 pygmentsstyle = "colorful"
 pygmentscodefences = true
@@ -18,7 +18,7 @@ pygmentscodefencesguesssyntax = true
 	series = "series"
 
 [params]
-	subtitle = "Just some guy"
+	subtitle = "Somebody with glasses"
 
 	# Optional 80x80 avatar image.
 	avatar = "/avatar1.png"
@@ -39,10 +39,10 @@ name = "All posts"
 url = "/posts"
 weight = 2
 
-[[menu.main]]
-name = "About"
-url = "/about"
-weight = 3
+#[[menu.main]]
+#name = "About"
+#url = "/about"
+#weight = 3
 
 [[menu.main]]
 name = "Tags"
@@ -52,7 +52,7 @@ weight = 4
 [[params.social]]
 name = "Github"
 icon = "fab fa-github"
-url = "https://github.com/dataCobra/hugo-vitae"
+url = "https://github.com/pdbradley"
 
 [[params.social]]
 name = "RSS"
