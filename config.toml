@@ -14,7 +14,7 @@ enableGitInfo = true
   series = "series"
 
 [params]
-mainSections = ["post"]
+mainSections = ["posts"]
 author = "Philip Bradley"
 email = "nope@example.com"
 # repoLink = "https://github.com/orf/bare-hugo-theme"
