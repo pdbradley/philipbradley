@@ -1,31 +1,72 @@
-baseURL = "http://www.philipbradley.net/"
+baseURL = "https://www.philipbradley.net/"
 languageCode = "en-us"
 title = "Philip Bradley"
-theme = "bare"
-enableGitInfo = true
+theme = "hugo-vitae"
+paginate = 5
 
+copyright = "© Copyright notice | [Vitae](https://github.com/dataCobra/hugo-vitae) theme for [Hugo](https://gohugo.io)"
 
+pygmentsstyle = "colorful"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 
-
-
+#googleAnalytics = "UA-123-45"
+#disqusShortname = "hugo-vitae"
 
 [taxonomies]
-  tag = "tags"
-  series = "series"
+	tag = "tags"
+	series = "series"
 
 [params]
-mainSections = ["posts"]
-author = "Philip Bradley"
-email = "nope@example.com"
-# repoLink = "https://github.com/orf/bare-hugo-theme"
-description = 'Just some guy with glasses'
-# PostCSS is harder than it should be to get working on a theme
-# example site. It's easy on _your_ site.
-postcss = false
-# Include the author name in the <title> of articles
-includeAuthorInTitle = true
-disableAttribution = true
+	subtitle = "Just some guy"
+
+	# Optional 80x80 avatar image.
+	avatar = "/avatar1.png"
+
+	# Content types to disable Disqus on.
+	disableDisqusTypes = ["page"]
+
+	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
+
+# Nav.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
 
 [[params.social]]
-icon = "github-circle"
-url = "https://github.com/orf/"
+name = "Github"
+icon = "fab fa-github"
+url = "https://github.com/dataCobra/hugo-vitae"
+
+[[params.social]]
+name = "RSS"
+icon = "fas fa-rss"
+url = "/index.xml"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "solarized-light"
+    tabWidth = 4
