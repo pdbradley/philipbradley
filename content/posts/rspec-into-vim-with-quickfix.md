@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-If you, live and die by TDD you probably started spending a lot of time writing tests which drive most of the application code you write.  Red, Green, Refactor, etc.  My tool of choice is Rspec, although Minitest is also quite nice.
+If you live and die by TDD you probably started spending a lot of time writing tests which drive most of the application code you write.  Red, Green, Refactor, etc.  My tool of choice is Rspec, although Minitest is also quite nice.
 
 
 Maybe I just have lazy eyes, but I get tired of scanning the pane where my tests run to find the exact location of each test failure, then navigating to it.  I'm pretty fast with vim file navigation, but I wanted a better way.
