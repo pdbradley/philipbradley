@@ -63,6 +63,8 @@
 				{{ end }}
 				{{ end }}
 			</div>
+      <div id="commento"></div>
+      <script defer src="https://pdb-commento.herokuapp.com/js/commento.js"></script>
 
 			{{- if .Site.DisqusShortname -}}
 			{{- $.Scratch.Set "isDisqus" true -}}
@@ -84,8 +86,6 @@
 		</div>
 	</div>
 	{{ partial "footer.html" . }}
-      <div id="commento"></div>
-      <script defer src="https://pdb-commento.herokuapp.com/js/commento.js"></script>
 </body>
 </html>
 
