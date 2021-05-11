@@ -1,15 +1,16 @@
 ---
 layout: post
 title: Instant Pot Poached Eggs Done Right
-excerpt: "Instant Pot Poached Eggs Done Right"
+excerpt: 'Instant Pot Poached Eggs Done Right'
 description: "I cracked the code so you don't have to."
 tags: [food, instantpot, eggs]
 comments: true
 hidden: true
+draft: true
 date: 2020-01-11
 resources:
-- name: poached-1
-  src: https://p54.f0.n0.cdn.getcloudapp.com/items/o0uQXogP/Image+2020-01-11+at+1.40.47+PM.png?v=11199fd6eb40bf58c2d7dab733334e1f
+  - name: poached-1
+    src: https://p54.f0.n0.cdn.getcloudapp.com/items/o0uQXogP/Image+2020-01-11+at+1.40.47+PM.png?v=11199fd6eb40bf58c2d7dab733334e1f
 ---
 
 I've made no secret of my love of the egg. In fact my [favorite
@@ -20,10 +21,10 @@ I approve of any [egg homage](https://www.eatout.co.za/article/ode-eggs/) and wo
 Terminology for the uninitiated:
 
 **poached egg**
-: *A poached egg is an egg that has been cooked, outside the shell, by poaching (or sometimes steaming), as opposed to simmering or boiling liquid. This method of preparation can yield more delicately cooked eggs than cooking at higher temperatures such as with boiling water.*
+: _A poached egg is an egg that has been cooked, outside the shell, by poaching (or sometimes steaming), as opposed to simmering or boiling liquid. This method of preparation can yield more delicately cooked eggs than cooking at higher temperatures such as with boiling water._
 
 The broken shells of **hundreds** of eggs slain in anger attest to how long it
-took me to find the method described below.  Before the instant pot, I tried...
+took me to find the method described below. Before the instant pot, I tried...
 
 - swirling, simmering water (traditional)
 - swirling, simmering oil or wine
@@ -34,24 +35,4 @@ took me to find the method described below.  Before the instant pot, I tried...
 The Sous vide approach actually has merit but for speed and consistency, **the
 instant pot is it**.
 
-
-{{% figure src="https://p54.f0.n0.cdn.getcloudapp.com/items/o0uQXogP/Image+2020-01-11+at+1.40.47+PM.png?v=11199fd6eb40bf58c2d7dab733334e1f"%}} 
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{{% figure src="https://p54.f0.n0.cdn.getcloudapp.com/items/o0uQXogP/Image+2020-01-11+at+1.40.47+PM.png?v=11199fd6eb40bf58c2d7dab733334e1f"%}}
