@@ -11,7 +11,7 @@ Sometimes to improve and broaden my mind I watch the Kardashians. (Who knew such
 [nearly came to blows](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 over which plain-text search utility was the fastest, I felt fortunate to have tuned in—"What is ripgrep, and why is Kylie so excited about it,", I wondered aloud.
 
-Well it turns out that ripgrep is the next in a line of improvements to grep, the ole standby text search utility we grew up with.  Turns out ripgrep is fast. As in, maybe 2-5 times as fast as what you are using now.  You can [read this](http://blog.burntsushi.net/ripgrep/) for the details, but suffice it to say that it was worth trying to figure out how to use it within vim for ctrlp (fuzzy file finding) and ack.vim (searching through the current project).  So here is how get that going on:
+Well it turnz out that ripgrep is the next in a line of improvements to grep, the ole standby text search utility we grew up with.  Turns out ripgrep is fast. As in, maybe 2-5 times as fast as what you are using now.  You can [read this](http://blog.burntsushi.net/ripgrep/) for the details, but suffice it to say that it was worth trying to figure out how to use it within vim for ctrlp (fuzzy file finding) and ack.vim (searching through the current project).  So here is how get that going on:
 
 ##### 1. Install ripgrep  (on mac, % brew install ripgrep)
 
